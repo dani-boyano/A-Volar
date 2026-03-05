@@ -9,3 +9,54 @@ Este ligero dron está enfocado principalmente al ámbito educativo, cuenta con 
 Imágen Propiedad Daniel Boyano. Licencia libre. Edición mediante Canva.
 
 ## Normativa Europea de vuelo
+La EASA (Agencia Europea de Seguridad Aérea) estipula según el decreto aprobado el 31 de de diciembre de 2020, una división en 7 categorías acerca de las aeronaves no tripuladas.
+
+Clase c0:
+| Masa máx. | Velocidad máx. |  
+|:----:|--------|
+| <250g | 19m/s |
+
+Clase c1:
+| Masa máx. | Velocidad máx. |  
+|:----:|--------|
+| <900g | 19m/s |
++Sistema Geo cosciencia
+
+Clase c2:
+| Masa máx. | Velocidad LOW |  
+|:----:|--------|
+| <4000g | 3m/s |
++Sistema Geo cosciencia
+
+Clase c3:
+| Masa máx. | Velocidad LOW |  
+|:----:|--------|
+| <25000g | 3m/s |
++Sistema Geo cosciencia
++Luces de vuelo nocturno
+
+Clase c4:
+| Masa máx. | Altura máx. |  
+|:----:|--------|
+| <25000g | <120m |
++Sistema Geo cosciencia
++Estabilizadores
++Return to home
+
+Clase c5:
+| Masa máx. | Velocidad máx. |  
+|:----:|--------|
+| <25000g | 5m/s |
++Sistema Geo cosciencia
++Estabilizadores
++Return to home
++Luces de vuelo nocturno
+
+Clase c6:
+| Masa máx. | Altura máx.|  
+|:----:|--------|
+| <25000g | +120m |
++Sistema Geo cosciencia
++Estabilizadores
+
+## ¿Cómo debemos conectarnos al dron para poder controlarlo?
