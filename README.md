@@ -59,4 +59,19 @@ Clase c6:
 +Sistema Geo cosciencia
 +Estabilizadores
 
+<br>
+
 ## ¿Cómo debemos conectarnos al dron para poder controlarlo?
+En primer lugar debemos de abrir la aplicación del dron TELLO, en segundo lugar debemos conectarnos a su misma wifi, tras activarla, nos conectaremos a la red TELLO-XXXXXX con la correspondiente matrícula del dron en cuestión. La conexió se abrá establecido cuando se muestre la visión de la cámara en el dipositivo conectado.
+
+<br>
+
+## Aplicaciones de la drónica
+
+
+
+
+<br>
+
+<footer>
+    <p>© 2026 · Daniel Boyano Lomas · GitHub Pages</p>
