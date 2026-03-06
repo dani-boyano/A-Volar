@@ -66,7 +66,12 @@ En primer lugar debemos de abrir la aplicación del dron TELLO, en segundo lugar
 
 <br>
 
+## Manual básico de programación con DroneBlocks
+<img width="246" height="498" alt="descarga" src="https://github.com/user-attachments/assets/db01f341-5070-41ce-8b67-f61ce4dc5c09" />
+
+
 ## Aplicaciones de la drónica
+
 
 
 
