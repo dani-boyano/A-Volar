@@ -79,10 +79,20 @@ Al iniciar este programa con el bloque take off, hacemos al dron despegar y esta
 <br>
 
 ## Aplicaciones de la drónica
+**1**. Inspecciones industriales:
+Los drones se utilizan en la industria para inspeccionar infraestructuras como puentes, líneas eléctricas, turbinas eólicas, tejados o fábricas. Gracias a sus cámaras y sensores pueden detectar daños, grietas o fallos rapidamente sin la necesidad de que los trabajadores accedan a lugares peligrosos.
 
 
+**2**. Entrega de paquetes y logística:
+Una de las aplicaciones más conocidas de la drónica es la entrega rápida de paquetes. Empresas de logística utilizan drones para transportar productos desde centros de distribución hasta los clientes.
 
 
+**3**.  Seguridad y vigilancia:
+Los drones se usan para vigilar grandes áreas, controlar eventos o patrullar zonas de difícil acceso. Sus cámaras permiten observar y transmitir imágenes en tiempo real, ayudando a mejorar la seguridad y reducir riesgos para los agentes.
+
+
+**4**. Fotografía, cine y entretenimiento:
+Los drones permiten grabar imágenes y vídeos aéreos de forma sencilla y económica. Se utilizan en películas, publicidad, turismo y eventos para obtener planos  desde el aire.
 
 <br>
 
