@@ -88,11 +88,12 @@ Una de las aplicaciones más conocidas de la drónica es la entrega rápida de p
 
 
 **3**.  Seguridad y vigilancia:
-Los drones se usan para vigilar grandes áreas, controlar eventos o patrullar zonas de difícil acceso. Sus cámaras permiten observar y transmitir imágenes en tiempo real, ayudando a mejorar la seguridad y reducir riesgos para los agentes.
+Los drones se usan para vigilar grandes áreas, controlar eventos o patrullar zonas de difícil acceso. Sus cámaras permiten observar y transmitir imágenes en tiempo real, ayudando a mejorar la seguridad y reducir riesgos para los agentes. Video ejemplo: [![](https://img.youtube.com/vi/megPXyamKSA/0.jpg)](https://www.youtube.com/watch?v=megPXyamKSA)
+
+<sup>Video propiedad AFP Español. Licencia estandar Youtube. Publicación Youtube.</sup>
 
 
-**4**. Fotografía, cine y entretenimiento:
-Los drones permiten grabar imágenes y vídeos aéreos de forma sencilla y económica. Se utilizan en películas, publicidad, turismo y eventos para obtener planos  desde el aire.
+**4**. Fotografía, cine y entretenimiento:btener planos  desde el aire. Los drones permiten grabar imágenes y vídeos aéreos de forma sencilla y económica. Se utilizan en películas, publicidad, turismo, etc.
 
 <br>
 
