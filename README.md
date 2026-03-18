@@ -86,12 +86,17 @@ Los drones se utilizan en la industria para inspeccionar infraestructuras como p
 **2**. Entrega de paquetes y logística:
 Una de las aplicaciones más conocidas de la drónica es la entrega rápida de paquetes. Empresas de logística utilizan drones para transportar productos desde centros de distribución hasta los clientes.
 
+<br>
 
-**3**.  Seguridad y vigilancia:
-Los drones se usan para vigilar grandes áreas, controlar eventos o patrullar zonas de difícil acceso. Sus cámaras permiten observar y transmitir imágenes en tiempo real, ayudando a mejorar la seguridad y reducir riesgos para los agentes. Video ejemplo: [![](https://img.youtube.com/vi/megPXyamKSA/0.jpg)](https://www.youtube.com/watch?v=megPXyamKSA)
+[![](https://img.youtube.com/vi/megPXyamKSA/0.jpg)](https://www.youtube.com/watch?v=megPXyamKSA)
 
 <sup>Video propiedad AFP Español. Licencia estandar Youtube. Publicación Youtube.</sup>
 
+<br>
+
+
+**3**.  Seguridad y vigilancia:
+Los drones se usan para vigilar grandes áreas, controlar eventos o patrullar zonas de difícil acceso. Sus cámaras permiten observar y transmitir imágenes en tiempo real, ayudando a mejorar la seguridad y reducir riesgos para los agentes. Video ejemplo: 
 
 **4**. Fotografía, cine y entretenimiento:btener planos  desde el aire. Los drones permiten grabar imágenes y vídeos aéreos de forma sencilla y económica. Se utilizan en películas, publicidad, turismo, etc.
 
