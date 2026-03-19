@@ -67,6 +67,8 @@ En primer lugar debemos de abrir la aplicación del dron TELLO, en segundo lugar
 <br>
 
 ## Manual básico de programación con DroneBlocks
+
+### Programa con rectas
 <img width="246" height="498" alt="descarga" src="https://github.com/user-attachments/assets/db01f341-5070-41ce-8b67-f61ce4dc5c09" />
 
 <sup>Imágen propiedad Daniel Boyano. Licencia libre. Creación con DroneBlocks.</sup>
@@ -75,6 +77,16 @@ En primer lugar debemos de abrir la aplicación del dron TELLO, en segundo lugar
 
 En este programa creado con DroneBlocks, observamos una secuencia de 12 bloques, los cuales determinan una acción en concreto por cada uno de ellos, el conjunto forma un programa que trasladado al dron, será trazado un símoblo de infinito en el aire.
 Al iniciar este programa con el bloque take off, hacemos al dron despegar y estabilizarse en el aire, tras ello el dron avanzrá 120cm hacia adelante, posteriormente se moverá 240cm hacia la derecha manteniendo la cámara mirando hacia delante, consecutivamente el dron volará 240cm hacia atrás y 180 hacia la izquierda, siempre manteniendo la cámara mirando al frente, tras esto el dron en su misma posición, se moverá 45º hacia la derecha, tras ello avanzará frontalmente 504 cm y volverá a su posición original girando 45º hacia la izquiertda, consecuitivamente el dron avanzara hacia la izquierda 180cm y hacia atrás 260cm para así moverse hacia la derecha 180cm y hacia el frente y la derecha 100cm para posicionarse dentro del área requerida.
+
+### Programa con curvas
+<img width="624" height="362" alt="Captura_de_pantalla_2026-03-19_221256-removebg-preview" src="https://github.com/user-attachments/assets/0c47dfc7-6d07-4efa-bf85-0df03b82f70e" />
+
+<sup>Imágen propiedad Daniel Boyano. Licencia libre. Creación con DroneBlocks.</sup>
+
+<br>
+
+En este otro programa, obvservamos como producto final, un símbolo del infinito el cual es trazado con 4 curvas en forma de media S.
+Tras un posicionamiento frontal al primer poste, el dron reliazará una secuencia fluida y continua de un 8 inverso dividindose en 4 tramos curvilíneos a una altura predeterminada.
 
 <br>
 
