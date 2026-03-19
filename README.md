@@ -82,6 +82,13 @@ Al iniciar este programa con el bloque take off, hacemos al dron despegar y esta
 **1**. Inspecciones industriales:
 Los drones se utilizan en la industria para inspeccionar infraestructuras como puentes, líneas eléctricas, turbinas eólicas, tejados o fábricas. Gracias a sus cámaras y sensores pueden detectar daños, grietas o fallos rapidamente sin la necesidad de que los trabajadores accedan a lugares peligrosos.
 
+<br>
+
+[![](https://img.youtube.com/vi/M2r0W8zK2N4/0.jpg)](https://www.youtube.com/watch?v=M2r0W8zK2N4)
+
+<sup>Video propiedad HIGH DRONE CHILE. Licencia estandar Youtube. Publicación Youtube.</sup>
+
+<br>
 
 **2**. Entrega de paquetes y logística:
 Una de las aplicaciones más conocidas de la drónica es la entrega rápida de paquetes. Empresas de logística utilizan drones para transportar productos desde centros de distribución hasta los clientes.
